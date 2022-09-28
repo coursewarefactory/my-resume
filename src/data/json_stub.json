@@ -1,18 +1,16 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
+        "name": "Eugene Belous",
+        "label": "Full-stack Developer",
         "picture": "",
         "email": "john.doe@mail.com",
         "phone": "(912) 555-4321",
         "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "summary": "A summary of Eugene Belous...",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
+            "city": "Chicago",
             "countryCode": "US",
-            "region": "California"
+            "region": "Illinois"
         },
         "profiles": [
             {
@@ -32,7 +30,7 @@
             },
             {
                 "network": "linkedin",
-                "url": "https://www.linkedin.com/in/%F0%9F%A5%B3-cl%C3%A9ment-devos-4b832526/"
+                "url": "https://www.linkedin.com/in/eugenebelous/"
             }
         ]
     },
@@ -67,62 +65,18 @@
     ],
     "volunteer": [
         {
-            "organization": "Organization",
-            "position": "Volunteer",
-            "website": "http://organization.com/",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
+            "organization": "Family",
+            "position": "Father, Husband",
+            "summary": "Two amazing kids",
+            "highlights": ["Awarded 'The best father in the Galaxy'"]
         }
     ],
-    "education": [
-        {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        },
-        {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
-        }
-    ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
-        }
-    ],
+
     "skills": [
         {
             "name": "React",
             "level": "Master",
-            "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Angular",
-            "level": "Master",
-            "value": 80,
+            "value": 20,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
@@ -132,16 +86,10 @@
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "Firebase",
+            "name": "Solidity",
             "level": "Master",
-            "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "Gmail",
-            "level": "Master",
-            "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "value": 40,
+            "keywords": ["Blockchain", "Ethereum", "Web3"]
         },
         {
             "name": "K8S",
@@ -151,39 +99,11 @@
         }
     ],
     "languages": [
-        { "language": "English", "value": 100, "fluency": "Native speaker" },
-        { "language": "Italien", "value": 15, "fluency": "Native speaker" }
+        { "language": "English", "value": 100, "fluency": "Fluently" },
+        { "language": "Russian", "value": 100, "fluency": "Native speaker" },
+        { "language": "Ukraine", "value": 100, "fluency": "Native speaker" }
     ],
-    "interests": [
-        {
-            "name": "France europe gif by nike football",
-            "gifUrl": "https://media1.giphy.com/media/3oD3YooLLYg0AfOPdK/giphy-downsized.gif?cid=f7fb5bbaegu1ofs48lty41dyowqsfo0wq9qq8h4czot7rwm1&rid=giphy-downsized.gif",
-            "id": "afa5739f-f868-464e-a1aa-18f5a3ff4e2b",
-            "gifUser": {
-                "name": "Nike Football",
-                "profileUrl": "https://giphy.com/nikefootball/",
-                "isVerified": true,
-                "profileAvatarUrl": "https://media1.giphy.com/avatars/nikefootball/vPyZcrShcXY8.jpg"
-            }
-        },
-        {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
-        },
-
-        {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
-        },
-        {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-        },
-        {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
-        }
-    ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
+    "references": [{ "name": "By request"}],
     "projects": [
         {
             "index": 5,
@@ -258,30 +178,24 @@
     ],
     "specific": {
         "basics": {
-            "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "visaSponsorship": false,
+            "personalDescription": "Tech-savvy professional with extensive IT consulting experience, with over 14 + years of providing IT consulting services for customers from Top 10 System integrators worldwide and top-rated IT training companies in the USA.\n6 years of experience in role Web Software Developer. Four years of focus on Blockchain projects with successful experience of development dApps, issuing tokens, advising, and Blockchain consulting."
         },
         "dreamJob": {
-            "locations": [{ "name": "Valenciennes, France" }, { "name": "Lille, France" }, { "name": "Paris,France" }],
-            "remoteFrequency": "regularly"
+            "locations": [{ "name": "California, US " }, { "name": "Washington, US" }, { "name": "London, United Kingdom" }],
+            "remoteFrequency": "forever"
         },
-        "currentJob": {
-            "issues": { "z": true, "boring_team": true }
-        },
-        "education": { "studiesLevel": null },
+
+        "education": { "studiesLevel": "Masters degree" },
         "work": {
-            "contractTypes": ["permanent", "freelance", "internship"],
-            "codingYears": 0,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
+            "contractTypes": ["permanent", "independent contractor"],
+            "codingYears": 6,
+            "codingReason": "It is interesting to create products for people",
             "searchState": "activelySearching",
-            "experienceYears": 0,
-            "codeExperienceYears": null,
-            "otherExperienceYears": null
+            "experienceYears": 14,
+            "codeExperienceYears": 6
         },
-        "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
-        },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "interestedBy": "Blockchain, React.js"
     },
     "resumeCustomization": {
         "imageHeader": {
